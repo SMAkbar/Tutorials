@@ -1,1 +1,3 @@
-This branch is about learning
+This branch is about Frog...
+
+It is to test the project before changing the master branch
